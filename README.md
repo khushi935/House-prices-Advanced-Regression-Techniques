@@ -1,5 +1,5 @@
 # House-prices-Advanced-Regression-Techniques
-This is the first Kaggle competition attempted .Here I used linear regression model is predict house-price . Got 0.23293 score.
+This is the first Kaggle competition attempted .Here I used linear regression model is predict house-price . Got 0.23293 error .
 Three files attached:
    1) train.csv - the training set
    2) test.csv - the test set
